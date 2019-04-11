@@ -1,6 +1,6 @@
 {
   "mongodb": {
-    "host": "mongodb",
+    "host": "${MONGODB_HOST}",
     "port": 27017,
     "url": "",
     "database": "boilerplate",
