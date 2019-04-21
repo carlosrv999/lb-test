@@ -1,5 +1,5 @@
 {
-  "name": "${NM_APP_NAME}",
+  "name": "boilerplate-nodemongo",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
