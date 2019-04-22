@@ -1,0 +1,2 @@
+# lb-test
+Boilerplate-Nodemongo
